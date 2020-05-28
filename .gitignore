@@ -4,3 +4,6 @@ data/raw/sample_submission.csv
 data/raw/sell_prices.csv
 data/submission/firt_raw_submission.csv
 data/submission/raw_submission_all_features.csv
+venv-m5/*
+.vscode/
+data/*
